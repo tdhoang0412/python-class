@@ -9,8 +9,7 @@ Python. The course specifically addresses students with no prior programming
 language.
 
 ## Where and when?
- - Where: AIfA CIP-Pool; Room 0.007 in the AIfA ground floor.
-The course takes place each Monday (except public holidays) in the 2017 Summer Term
+ - Where: AIfA CIP-Pool; Room 0.007 in the AIfA ground floor
  - When: 2:00 pm c.t. - 4 pm on each Monday (except public holidays) in the 2017 Summer Term
 
 ## Preconditions for the course
