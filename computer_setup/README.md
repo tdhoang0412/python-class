@@ -78,4 +78,4 @@ Ran 12 tests in 1.107s
 OK
 user$
 ```
-Please contact me if you run into problems that you cannot resolve yourself.
+Please contact me if you run into problems that you cannot solve yourself.
