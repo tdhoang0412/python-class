@@ -17,4 +17,4 @@ I assume familiarity with the *Linux* operating system, especially using the
 *Unix*-command line.
 
 ## Computer / Laptop setup
-Each student will work actively with an own computer in the AIfA CIP-Pool. All necessary software is already installed on the computers. For those, who would like to setup own computers/laptops with the necessary software, I provide necessary information [here](https://github.com/terben/Introduction_to_Python_Bonn_Summer_2017/tree/master/computer_setup).
+Each student will work actively with an own computer in the AIfA CIP-Pool. All necessary software is already installed on the computers. For those, who would like to setup own computers/laptops with the proper software, I provide necessary information [here](https://github.com/terben/Introduction_to_Python_Bonn_Summer_2017/tree/master/computer_setup).
