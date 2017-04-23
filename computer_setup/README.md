@@ -22,7 +22,7 @@ user$ module load anaconda/36
 
 and *Python 3.6* is activated in your current shell. Putting the above command
 into your `.cshrc` or `.bashrc` configuration file (depending on the *Unix*
-shell that you are using) activates automatically *Python 3.6* within each
+shell that you are using) activates *Python 3.6* automatically within each
 shell that you open.
 
 In the AIfA CIP-Pool, you need to launch the two following commands for the
@@ -78,4 +78,4 @@ Ran 12 tests in 1.107s
 OK
 user$
 ```
-Please contact me if you run into problems that you cannot resolve yourself.
+Please contact me if you run into problems that you cannot solve yourself.
