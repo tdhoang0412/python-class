@@ -6,11 +6,11 @@ The goal of the course is to teach physics-students on the master and
 PhD level how to efficiently and flexibly solve scientific programming
 problems with the easy-to-learn, high-level programming language
 Python. The course specifically addresses students with no prior programming
-language.
+experience.
 
 ## Where and when?
  - Where: AIfA CIP-Pool; Room 0.007 in the AIfA ground floor
- - When: 2:00 pm c.t. - 4 pm on each Monday (except public holidays) in the 2017 Summer Term
+ - When: 2:00 pm s.t. - 3:45 pm on each Monday (except public holidays) in the 2017 Summer Term
 
 ## Preconditions for the course
 I assume familiarity with the *Linux* operating system, especially using the
